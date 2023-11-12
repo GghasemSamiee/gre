@@ -5,7 +5,8 @@ error_log
 # concrete5 5.6 specific
 
 config/site.php
-files/cache/*
+files/cacddewewrhe/*
+ddk/dw
 files/tmp/*
 
 # concrete5 5.7 specific
