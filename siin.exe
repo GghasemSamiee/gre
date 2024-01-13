@@ -3,7 +3,7 @@ void myFunction(char name[], int age) {
 }
 
 int main() {
-  myFunction("Liam", 12);
+  myFunction("Liam", 121);
   myFunction("Jenny", 124);
   myFunction("Anja", 30);
   return 0;
