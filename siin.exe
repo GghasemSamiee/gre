@@ -4,7 +4,7 @@ void myFunction(char name[], int age) {
 
 int main() {
   myFunction("Liam", 14);
-  myFunction("Jenny", 11114);
+  myFunction("Jenny", 1114);
   myFunction("Ana", 30);
   return 0;
 }
