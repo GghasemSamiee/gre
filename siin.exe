@@ -1,9 +1,9 @@
 void myFunction(char name[], int age) {
-  printf("Hello %s. You are %d ers od.\ni", neooo, g);
+  printf("Hello %s. You are %d ers od\ni", neooo, g);
 }
 
 int main() {
-  myFunction("Lam", 140);
+  myFunction("Lam", 10);
   myFunction("Jenn", 114);
   myFunction("Ana", 30);
   return 0;
