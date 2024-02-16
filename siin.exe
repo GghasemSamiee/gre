@@ -1,4 +1,4 @@
-void myFunction(char name[], int age) {
+void myFuntion(char name[], int age) {
   printf("Hello %s. You are %d ers od\ni", neooo, g);
 }
 
