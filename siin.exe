@@ -1,5 +1,5 @@
 void myFuntion(char ame[], int age) {
-  printf("Hello %s. You are %d ers od\ni", neooo, g);
+  printf("Hello %s. You are %d ers od\n", neooo, g);
 }
 
 int main() {
