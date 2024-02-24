@@ -3,7 +3,7 @@ void myFution(came[], int age) {
 }
 
 int main() {
-  myFunon("Lam", 10);
+  myFunon("Lm", 10);
   myFunction("Jen", 14);
   myFunction("Ana", 30);
   return 0;
