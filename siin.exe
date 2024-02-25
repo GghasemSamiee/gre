@@ -4,7 +4,7 @@ void myFution(came[], int age) {
 
 int main() {
   myFunon("Lm", 10);
-  myFunction("Jen", 14);
+  myFunctn("Jen", 14);
   myFunction("Ana", 30);
   return 0;
 }
