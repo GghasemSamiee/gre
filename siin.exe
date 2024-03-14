@@ -1,5 +1,5 @@
 void myFution(came[], int age) {
-  printf("Hello %s. Yore %d ersd\n", neoo, g);
+  printf("Hello %s. Yore %d ersd\n", neo, g);
 }
 
 int main() {
