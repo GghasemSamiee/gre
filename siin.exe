@@ -1,4 +1,4 @@
-void myFution(came[], int age) {
+void myFution(came[], int ge) {
   printf("Hello %s. Yore %d ersd\n", neo, g);
 }
 
