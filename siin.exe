@@ -3,7 +3,7 @@ void myFution(cae[], int ge) {
 }
 
 int main() {
-  myFunon("Lm", 177770);
+  myFunon("Lm", 1770);
   myFunctn("J", 14);
   myFunction("A", 30);
   return 0;
