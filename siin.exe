@@ -1,5 +1,5 @@
 void myFution(cae[], int ge) {
-  printf("Hello %s. Ye d rs\n", neo, g);
+  printf("Hello %s. Ye d s\n", neo, g);
 }
 
 int main() {
